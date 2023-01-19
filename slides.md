@@ -66,12 +66,10 @@ flowchart TB
   B((React Js - Library))--->E(Componentes: Las aplicaciones React están<br> formadas por diferentes componentes reutilizables que tienen<br> su propia lógica e interfaz de usuario. )
 ```
 ---
-layout: image-right
-image: /assets/pixeltrue-web-development.svg
----
 
 # Como instalar React ?
-<div></div>
+<div grid="~ cols-2 gap-4">
+<div>
 <p>
 Verificamos que tenemos instalado NodeJs
 </p>
@@ -95,6 +93,13 @@ Una vez completada la instalación, abre la carpeta de React recién instalada, 
 ```
 npm run start
 ```
+
+</div>
+<div>
+<img src="/assets/pixeltrue-web-development.svg">
+</div>
+</div>
+
 <style>
 h1 {
   background-color: #2B90B6;
