@@ -1,11 +1,16 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+#Welcome to the React Slides repository
 
-To start the slide show:
+This project contains the md files for the slides about React that we will see in the Module 3 classes.
 
-- `yarn install`
-- `yarn dev`
-- visit http://localhost:3030
+Visit page: [slidev-react](https://slidev-react.vercel.app/1)
 
-Edit the [slides.md](./slides.md) to see the changes.
+## Folder structure:
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+- `assets`: Static content like images, svg.
+- `pages`: Here you will find all the available slides.
+  - `XX-Directory`: Each folder where the presentation slides will be saved.
+
+- `slides.md`: Entry point of our slides. Here all the content to be displayed is loaded.
+
+---
+Read more about Slidev in the [documentation](https://sli.dev/).
