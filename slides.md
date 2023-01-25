@@ -65,6 +65,11 @@ flowchart TB
 
   B((React Js - Library))--->E(Componentes: Las aplicaciones React están<br> formadas por diferentes componentes reutilizables que tienen<br> su propia lógica e interfaz de usuario. )
 ```
+
+---
+src: ./pages/before-we-begin.md
+--- 
+
 ---
 
 # Como instalar React ?
@@ -87,7 +92,15 @@ npx create-react-app app-name
 ```
 
 <p>
-Una vez completada la instalación, abre la carpeta de React recién instalada, y ejecutamos el comando
+Una vez completada la instalación, <strong>abre la carpeta de React recién instalada</strong>
+</p>
+
+```
+cd app-name
+```
+
+<p>
+Y ejecutamos el comando
 </p>
 
 ```
